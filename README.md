@@ -8,6 +8,7 @@ To run this code you need to add a GoogelMapAPI key and a Firestore database.
 Add the GoogelMap API-Key in the following files.
 
 -> Android -> app -> src -> main -> AndroidManifest.xml
+
 -> IOS -> Runner -> Appdelegate.swift
 
 
@@ -15,6 +16,7 @@ Add the GoogelMap API-Key in the following files.
 Add the Firebase files here:
 
 -> Android -> google-services-json
+
 -> IOS -> GoogleService-Info.plist
 
 
