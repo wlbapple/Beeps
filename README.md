@@ -1,7 +1,7 @@
-#Beeps
+<h1>Beeps</h1>
 
- ## This code is the prototype for the beeps app
- 
+ <h2>This code is the prototype for the beeps app</h2>
+
 To run this code you need to add a GoogelMapAPI key and a Firestore database.
 
 <p>
